@@ -1,0 +1,12 @@
+.leaflet-container {
+    z-index: 0;
+  }
+  
+  .popup-container {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #007BFF;
+    border-radius: 8px;
+    max-width: 300px;
+  }
+  
